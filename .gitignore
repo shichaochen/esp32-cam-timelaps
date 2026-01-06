@@ -1,0 +1,28 @@
+# PlatformIO
+.pio/
+.vscode/
+*.pyc
+__pycache__/
+
+# Arduino IDE
+*.hex
+*.elf
+*.bin
+build/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# 编译输出
+*.o
+*.a
+*.d
+
